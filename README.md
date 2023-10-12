@@ -5,6 +5,9 @@
 
 ## Introduction
 
+
+
+
 In this lab, we will implement what we have learned about functional programming using the map, reduce, and filter functions. These functions allow us to pass an input and a transformation to a function and produce an output. 
 
 ## Getting Started
