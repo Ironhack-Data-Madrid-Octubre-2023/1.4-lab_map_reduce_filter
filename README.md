@@ -2,6 +2,8 @@
 
 # Lab | Map, Reduce, Filter
 
+primero que todo buenos días
+
 
 ## Introduction
 
